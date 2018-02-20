@@ -45,6 +45,7 @@
 
         </LinearLayout>
 
+
         <!--Blue Layout-->
         <LinearLayout
             android:orientation="horizontal"
