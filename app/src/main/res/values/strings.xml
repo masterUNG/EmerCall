@@ -4,4 +4,9 @@
     <string name="close">Close Drawer</string>
     <string name="open">Open Drawer</string>
 
+    <string name="station1">เหตุด่วน เหตุร้าย</string>
+    <string name="station2">แจ้งอุบัติเหตุ</string>
+    <string name="station3">รถหาย</string>
+    <string name="station4">เจ็บป่วย ฉุกเฉิน</string>
+
 </resources>
