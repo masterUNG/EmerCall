@@ -21,7 +21,10 @@ public class HospitalAdapter extends BaseAdapter{
     private int[] ints;
     private String[] titleStrings, phoneStrings;
 
-    public HospitalAdapter(Context context, int[] ints, String[] titleStrings, String[] phoneStrings) {
+    public HospitalAdapter(Context context,
+                           int[] ints,
+                           String[] titleStrings,
+                           String[] phoneStrings) {
         this.context = context;
         this.ints = ints;
         this.titleStrings = titleStrings;
