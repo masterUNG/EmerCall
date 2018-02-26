@@ -27,6 +27,7 @@ public class MainFragment extends Fragment {
     private String tag = "MyTagV1";
 
 
+
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
